@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+ul {
+    list-style-type: none;
+}
+
+.icon i {
+    font-size: 40px;
+    margin: 10% 40%;
+}
+
+.icon p {
+    text-align: center;
+}
+
+.trabajos li {
+    padding-bottom: 20px;
+}
+.trabajos i {
+    margin: 0% 47% 5%;
+    padding: 0%;
+}
+
+.habilidades i {
+    margin: 0;
+    padding: 0;
+    font-size: smaller;
+}
+
+.habilidades h2 {
+    text-align: center;
+}
+
+footer img {
+    width: 50px;
+    margin-left: 48%;
+}
+
+footer {
+    justify-content: center;
+}
+
+footer h2 {
+    text-align: center;
+    padding-bottom: 2%;
+    margin-top: 0%;
+    font-size:medium;
+}
